@@ -31,7 +31,7 @@ Step 3: Install Dependencies 📦
 Open your terminal (Command Prompt, PowerShell, or Terminal on Mac/Linux), navigate to your project folder, and run the following command to install the required libraries:
 
 Bash
-pip install kivymd beautifulsoup4
+[pip install kivymd beautifulsoup4]
 (Note: Core modules like imaplib, email, threading, and re come pre-installed natively with Python).
 
 Step 4: Set up a Gmail App Password 🔐
@@ -51,8 +51,7 @@ Step 5: Run the Application ▶️
 Execute the script from your terminal:
 
 Bash
-python main.py
-(Replace main.py with your actual script filename).
+python app.py
 
 How to use it inside the app:
 Enter your Gmail address.
